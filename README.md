@@ -55,7 +55,7 @@ Watch the Task Manager app in action:
 
 [Click here to view the demo](videos/TaskManagerApp-Video.mp4)
 
-
+---
 
 ##  How to Use This Repository
 
