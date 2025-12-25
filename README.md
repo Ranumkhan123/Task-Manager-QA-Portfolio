@@ -52,7 +52,8 @@ Purpose of this repository:
 ## App Demo Video
 
 Watch the Task Manager app in action:  
-[Click here to view the demo](Videos/Task Manager App- Video.mp4)
+
+[Click here to view the demo](videos/TaskManagerApp-Video.mp4)
 
 
 
